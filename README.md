@@ -51,7 +51,11 @@
   🔧 Tech: Flutter, Firebase, Background Services, Push Notifications  
 
 ## 📫 Reach Me
-🟢Available for freelance projects on <a href="https://www.upwork.com/freelancers/~01aaf214297b237cb9" target="_blank" rel="noopener noreferrer"><strong>Upwork</strong></a>
+🟢 Available for freelance projects on 
+<a href="https://www.upwork.com/freelancers/~01aaf214297b237cb9" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" />
+</a>
+
 
 ---
 
