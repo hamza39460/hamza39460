@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter & blockchain projects
 - 🌱 I’m learning advanced React and Next.js
 - 💬 Ask me about mobile app dev or Solana
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hamzaazam)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hamza39460)
 
 ## Skills
 | Flutter | Firebase | Node.js | Solana Blockchain |
