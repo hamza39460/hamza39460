@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/username/username/main/header.png)
-
 # Hi, I'm Hamza Azam 👋
 
 ## About Me
