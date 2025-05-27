@@ -1,16 +1,24 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/username/username/main/header.png)
 
-<!--
-**hamza39460/hamza39460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hamza Azam 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on Flutter & blockchain projects
+- 🌱 I’m learning advanced React and Next.js
+- 💬 Ask me about mobile app dev or Solana
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/hamzaazam)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+| Flutter | Firebase | Node.js | Solana Blockchain |
+|---------|----------|---------|-------------------|
+| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) | ![Solana](https://img.shields.io/badge/-Solana-00FFA3?style=flat-square&logo=solana) |
+
+## GitHub Stats
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzaazam&show_icons=true&theme=radical)
+
+---
+
+### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaazam) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hamzaazam)
